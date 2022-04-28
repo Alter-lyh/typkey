@@ -1,9 +1,10 @@
-# typing
+# typkey
 
 #### 介绍
 一个练习盲打和复习单词结合的网站
-前端使用element ui框架,并借助 babel-plugin-component进行按需引入,使用less预编译语言编写css,通过ajax框架axios与后台进行交互,并同时使用vux进行状态管理
-后台使用nodejs框架koa进行搭建，并且通过nodemon自动重启加载服务 使用中间件有：koa-router koa-bodyparser mysql koa-static
+很多年前写的了，本来想重构后开源的，但一直没时间。就厚着脸皮先开源吧
+演示地址：https://key.moguwk.com/#/
+程序问答：http://www.moguwk.com/
 
 #### 软件架构
 软件架构说明
